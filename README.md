@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👩🏻‍💻 I'm a computer engineering student at CNU 👩🏻‍💻 
-- 🌱 I’m currently learning front-end and back-end 🌱
+- 🌱 I’m currently learning front-end and back-end on javascript🌱
 - 📫 How to reach me: ssongyii.kim@gmail.com 📫
 <!--
 **ksl2950/ksl2950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
