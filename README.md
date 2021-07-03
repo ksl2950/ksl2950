@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👩🏻‍💻 I'm a computer engineering student at CNU 👩🏻‍💻 
-- 🌱 I’m currently learning front-end and back-end on javascript🌱
+- 🌱 I’m currently learning front-end and back-end on javascript 🌱
 - 📫 How to reach me: ssongyii.kim@gmail.com 📫
 
  [![songyi00's github stats](https://github-readme-stats.vercel.app/api?username=songyi00)](https://github.com/anuraghazra/github-readme-stats)
