@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 I'm a computer engineering student at CNU 👩🏻‍💻 
 - 🌱 I’m currently learning front-end and back-end on javascript 🌱
-- 📫 How to reach me: ssongyii.kim@gmail.com 📫
+- 📫 How to reach me: ksl2950@gmail.com 📫
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksl2950)](https://solved.ac/ksl2950/)
  </br></br>
